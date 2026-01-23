@@ -1,0 +1,11 @@
+Timestamp,Event,Filename,File_Type,Size_Bytes,Permissions,Owner,Group,Details
+2026-01-22 21:37:15,CREATED,file2.txt,Regular File,6,0o664,bahaa,bahaa,Created at 2026-01-22 21:37:15.015400
+2026-01-22 21:38:52,MODIFIED,file1.txt,Regular File,0,0o664,bahaa,bahaa,Content Modified
+2026-01-22 21:38:58,MODIFIED,file2.txt,Regular File,6,0o664,bahaa,bahaa,Content Modified
+2026-01-22 21:41:24,CREATED,file2.txt~,Regular File,6,0o664,bahaa,bahaa,Created at 2026-01-22 21:41:24.227957
+2026-01-22 21:41:37,MODIFIED,file1.txt,Regular File,0,0o777,bahaa,bahaa,Perms: 0o664->0o777
+2026-01-22 21:41:41,MODIFIED,file2.txt~,Regular File,12,0o664,bahaa,bahaa,Size: 6->12; Content Modified
+2026-01-22 21:42:57,DELETED,file1.txt,Regular File,0,0o777,bahaa,bahaa,File removed
+2026-01-22 23:49:08,CREATED,file1.txt,Regular File,0,0o664,bahaa,bahaa,Created at 2026-01-22 23:49:07.302659
+2026-01-22 23:53:25,MODIFIED,file2.txt,Regular File,6,0o664,bahaa,bahaa,Content Modified
+2026-01-22 23:59:42,DELETED,file1.txt,Regular File,0,0o664,bahaa,bahaa,File removed
